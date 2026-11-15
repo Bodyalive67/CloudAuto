@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cloud Auto</string>
+    <string name="help">Crea una password per app su id.yandex.com → Sicurezza → Password per le app (tipo «Files» / WebDAV) e inseriscila qui insieme al tuo login Yandex.</string>
+    <string name="login_hint">Login Yandex (nome o email)</string>
+    <string name="password_hint">Password per app</string>
+    <string name="save">Salva e verifica</string>
+    <string name="logout">Esci</string>
+    <string name="status_logged_in">Connesso come %1$s.\nApri Android Auto e scegli «Cloud Auto» tra le app multimediali.</string>
+    <string name="status_logged_out">Non connesso. Accedi per sfogliare i tuoi file audio in auto.</string>
+    <string name="checking">Verifica in corso…</string>
+    <string name="check_ok">Connessione riuscita</string>
+    <string name="check_auth_error">Login o password per app non validi</string>
+    <string name="check_error">Errore: %1$s</string>
+</resources>
